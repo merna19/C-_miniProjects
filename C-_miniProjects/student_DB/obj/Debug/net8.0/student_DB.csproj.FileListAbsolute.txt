@@ -1,0 +1,14 @@
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\student_DB.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\student_DB.AssemblyInfoInputs.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\student_DB.AssemblyInfo.cs
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\student_DB.csproj.CoreCompileInputs.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\bin\Debug\net8.0\student_DB.exe
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\bin\Debug\net8.0\student_DB.deps.json
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\bin\Debug\net8.0\student_DB.runtimeconfig.json
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\bin\Debug\net8.0\student_DB.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\bin\Debug\net8.0\student_DB.pdb
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\student_DB.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\refint\student_DB.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\student_DB.pdb
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\student_DB.genruntimeconfig.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\student_DB\obj\Debug\net8.0\ref\student_DB.dll

@@ -1,0 +1,14 @@
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\my_power.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\my_power.AssemblyInfoInputs.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\my_power.AssemblyInfo.cs
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\my_power.csproj.CoreCompileInputs.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\bin\Debug\net8.0\my_power.exe
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\bin\Debug\net8.0\my_power.deps.json
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\bin\Debug\net8.0\my_power.runtimeconfig.json
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\bin\Debug\net8.0\my_power.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\bin\Debug\net8.0\my_power.pdb
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\my_power.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\refint\my_power.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\my_power.pdb
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\my_power.genruntimeconfig.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\my_power\obj\Debug\net8.0\ref\my_power.dll

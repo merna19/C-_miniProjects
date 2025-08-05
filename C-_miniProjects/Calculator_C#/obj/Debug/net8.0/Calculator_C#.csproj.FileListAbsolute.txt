@@ -1,0 +1,14 @@
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\Calculator_C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\Calculator_C#.AssemblyInfoInputs.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\Calculator_C#.AssemblyInfo.cs
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\Calculator_C#.csproj.CoreCompileInputs.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\bin\Debug\net8.0\Calculator_C#.exe
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\bin\Debug\net8.0\Calculator_C#.deps.json
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\bin\Debug\net8.0\Calculator_C#.runtimeconfig.json
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\bin\Debug\net8.0\Calculator_C#.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\bin\Debug\net8.0\Calculator_C#.pdb
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\Calculator_C#.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\refint\Calculator_C#.dll
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\Calculator_C#.pdb
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\Calculator_C#.genruntimeconfig.cache
+F:\iti\.net full stack\6 days OOP C@\LAB2\Calculator_C#\obj\Debug\net8.0\ref\Calculator_C#.dll
