@@ -1,0 +1,14 @@
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\bin\Debug\net8.0\multi-dimentional array.exe
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\bin\Debug\net8.0\multi-dimentional array.deps.json
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\bin\Debug\net8.0\multi-dimentional array.runtimeconfig.json
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\bin\Debug\net8.0\multi-dimentional array.dll
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\bin\Debug\net8.0\multi-dimentional array.pdb
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\multi-dimentional array.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\multi-dimentional array.AssemblyInfoInputs.cache
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\multi-dimentional array.AssemblyInfo.cs
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\multi-dimentional array.csproj.CoreCompileInputs.cache
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\multi-dimentional array.dll
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\refint\multi-dimentional array.dll
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\multi-dimentional array.pdb
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\multi-dimentional array.genruntimeconfig.cache
+F:\iti\.net full stack\6 days OOP C#\LAB3\Task1\multi-dimentional array\obj\Debug\net8.0\ref\multi-dimentional array.dll
