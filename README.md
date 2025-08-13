@@ -8,5 +8,6 @@ A collection of simple C# console applications to practice fundamental programmi
 - PowerFunction: Demonstrates the use of recursion and out parameters.
 - EquationRoots: Identifies root types of a second-degree equation.
 - MagicBox: Implementation of a simple magic box logic.
-- Multi-dimentional array: Demonstrates the use of multidimentional array
-- Jagged array: Demonstrates the use of jagged array
+- Multi-dimentional array: Demonstrates the use of multidimentional array.
+- Jagged array: Demonstrates the use of jagged array.
+- person_Employee_customer: Demonestrates the use of the class inheretance and overriding as well.
