@@ -1,0 +1,15 @@
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.GeneratedMSBuildEditorConfig.editorconfig
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.AssemblyInfoInputs.cache
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.AssemblyInfo.cs
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.csproj.CoreCompileInputs.cache
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.sourcelink.json
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\bin\Debug\net8.0\shape volume.exe
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\bin\Debug\net8.0\shape volume.deps.json
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\bin\Debug\net8.0\shape volume.runtimeconfig.json
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\bin\Debug\net8.0\shape volume.dll
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\bin\Debug\net8.0\shape volume.pdb
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.dll
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\refint\shape volume.dll
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.pdb
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\shape volume.genruntimeconfig.cache
+F:\iti\.net full stack\6 days OOP C#\GitHub_Repo\C-_miniProjects\shape volume\obj\Debug\net8.0\ref\shape volume.dll
