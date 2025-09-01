@@ -11,4 +11,4 @@ A collection of simple C# console applications to practice fundamental programmi
 - Multi-dimentional array: Demonstrates the use of multidimentional array.
 - Jagged array: Demonstrates the use of jagged array.
 - person_Employee_customer: Demonestrates the use of the class inheretance and overriding as well.
-- shapes volume: Demonstrates the use of abstract classes, polymorphism, and a static method with a params list to calculate and display volumes of different shapes.
+- shape volume: Demonstrates the use of abstract classes, polymorphism, and a static method with a params list to calculate and display volumes of different shapes.
