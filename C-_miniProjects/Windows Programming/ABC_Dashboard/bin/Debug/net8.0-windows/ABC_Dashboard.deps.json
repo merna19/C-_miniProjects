@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ABC_Dashboard/1.0.0": {
+        "runtime": {
+          "ABC_Dashboard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABC_Dashboard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
