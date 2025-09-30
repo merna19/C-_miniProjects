@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\iti\\.net full stack\\c# advanced\\lab\\Windows Programming\\ABC_Dashboard\\ABC_Dashboard.csproj",
+      "projectUniqueName": "F:\\iti\\.net full stack\\6 days OOP C#\\GitHub_Repo\\C-_miniProjects\\Windows Programming\\ABC_Dashboard\\ABC_Dashboard.csproj",
       "projectName": "ABC_Dashboard",
-      "projectPath": "F:\\iti\\.net full stack\\c# advanced\\lab\\Windows Programming\\ABC_Dashboard\\ABC_Dashboard.csproj",
+      "projectPath": "F:\\iti\\.net full stack\\6 days OOP C#\\GitHub_Repo\\C-_miniProjects\\Windows Programming\\ABC_Dashboard\\ABC_Dashboard.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "F:\\iti\\.net full stack\\c# advanced\\lab\\Windows Programming\\ABC_Dashboard\\obj\\",
+      "outputPath": "F:\\iti\\.net full stack\\6 days OOP C#\\GitHub_Repo\\C-_miniProjects\\Windows Programming\\ABC_Dashboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
